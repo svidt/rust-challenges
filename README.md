@@ -15,9 +15,10 @@ This repository contains solutions to a series of challenges from the LinkedIn c
 | **Challenge 07** | Represent shapes             | Geometry         |
 | **Challenge 08** | Sum boxes                    | Summation        |
 | **Challenge 09** | Implement the display trait  | Implementation   |
-| **Challenge 10** | Handle errors                | Error-handling   |
-| **Challenge 11** | Count words                  | Counting         |
-| **Challenge 12** | Represent a location         | Representation   |
+| **Challenge 10** | Known location                | Enumeration  |
+| **Challenge 11** | Think of a number             | Match         |
+| **Challenge 12** | Astronauts       | HashMap   |
+| **Final Challenge** | Find most common word       | ALL   |
 
 ## About the Course
 
